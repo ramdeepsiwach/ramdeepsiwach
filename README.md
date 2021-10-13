@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ramdeepsiwach
 - 👀 I’m interested in mobile development and web developments.
-- 🌱 I’m currently learning flutter and new technologies.
 - 📫 @ramdeepsiwach@gmail.com
 
 <!---
